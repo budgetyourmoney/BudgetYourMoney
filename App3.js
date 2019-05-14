@@ -1,3 +1,4 @@
+{/* When click a button, change color*/}
 import React from 'react'
 import {
   TouchableHighlight,
